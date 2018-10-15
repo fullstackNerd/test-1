@@ -47,4 +47,4 @@ function bS(array, target) {
 console.time("time2");
 console.log(bS(nums, 990));
 console.timeEnd("time2");
-console.log("hello");
+console.log("hello are you here?");
